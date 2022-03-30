@@ -7,10 +7,11 @@
 # now with funny colors
 
 import math
-import colorama
-from colorama import Fore, Back, Style
 import random
 import sys
+
+import colorama
+from colorama import Back, Fore, Style
 
 
 def main():
